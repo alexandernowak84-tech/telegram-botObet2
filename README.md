@@ -1,0 +1,3 @@
+BOT_TOKEN=
+MAIN_ADMIN_ID=
+TZ=Europe/Kyiv
